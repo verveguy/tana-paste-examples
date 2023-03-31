@@ -1,0 +1,12 @@
+For each file
+	Change first line ‘# ‘ to be %%tana%% (no space)
+	Append #day to end of first line
+        TODO: Any other date conversion needed?
+	For each line after the first
+		Eliminate any empty lines that start with a -
+            (These blow up Tana paste)
+		Change any lines with ![] to be #missing_image ![]
+            TODO: Anything better to do with images?
+		For any line that starts with a 24:00 clock, append #meeting to the end (my habit)
+        
+		

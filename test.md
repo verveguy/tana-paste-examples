@@ -1,0 +1,21 @@
+# Wed, December 14th, 2022
+
+- 14:00 China update [[Patricia France]]
+  - PIPL
+- [[Patricia France]]
+- 16:15 Interview Maiara Redmond
+  - Why us?
+    - Worked for a competitor in a past role (EditShare)
+    - Referral from another EA @ Autodesk
+      - ALways had a positive impression of the culture
+      - So far all the interviews have confirmed this
+      - ![](https://firebasestorage.googleapis.com/v0/b/reflect-prod.appspot.com/o/users%2FyGNq1oMc7DdEaZdXtfkxrSxKeT03%2F678ce87ed1c3408594e91e78565d3ab3?alt=media\&token=558282cd-636e-4755-a8b9-56a1a9249657)
+    - Recently worked for Ably but they've laid people off sadly
+  - Tell me about quality vs speed tradeoff
+    - Recent example.
+    -
+    - (Good communications skills)
+    - Monday morning, distributed global team (UK, EU)
+    - Another EA let me know she needed to take a sick day. Supporting the CEO.
+    - ![](https://firebasestorage.googleapis.com/v0/b/reflect-prod.appspot.com/o/users%2FyGNq1oMc7DdEaZdXtfkxrSxKeT03%2Fe651638cd2504188929423231d978467?alt=media\&token=71d315db-bebe-42b3-b3d7-9fb2cac24315)
+    -
